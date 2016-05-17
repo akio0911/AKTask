@@ -1,0 +1,2 @@
+github "ReactKit/SwiftTask" ~> 4.2.1
+github "duemunk/Async" ~> 1.6.4
